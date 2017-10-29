@@ -15,6 +15,7 @@ public class MyContract {
         public  static final  String CLM_NAME="name";
         public  static final  String CLM_PASS="pass";
         public  static final  String CLM_PHONE="phone";
+	//and this is a extra line
     }
 
 }
